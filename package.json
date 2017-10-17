@@ -1,0 +1,12 @@
+{
+  "name": "node-pacman",
+  "version": "0.1.0",
+  "description": "Give Pacman some node_modules to eat",
+  "main": "index.js",
+  "repository": "git@github.com:bntzio/node-pacman.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT",
+  "bin": {
+    "node-pacman": "cli.js"
+  }
+}
